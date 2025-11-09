@@ -19,7 +19,7 @@ public class Collatz {
 				}
 
 				if (mode.equals("v"))
-					System.out.print(", " + seed);
+					System.out.print(" " + seed);
 				a = false;
 				cnt++;
 			}
