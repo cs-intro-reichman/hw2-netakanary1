@@ -25,7 +25,7 @@ public class Collatz {
 			}
 
 			if (mode.equals("v"))
-				System.out.print("(" + cnt + ")\n");
+				System.out.print(" (" + cnt + ")\n");
 			cnt = 0;
 		}
 		System.out.println("Every one of the first " + num + " hailstone sequences reached 1.");
