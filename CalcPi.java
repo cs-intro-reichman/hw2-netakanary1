@@ -10,7 +10,7 @@ public class CalcPi {
 			a *= -1.0;
 		}
 
-		System.out.println("pi according to java: " + Math.PI);
-		System.out.println("pi, approximated: " + sum * 4.0 + " ");
+		System.out.println("pi according to Java: " + Math.PI);
+		System.out.println("pi, approximated:     " + sum * 4.0 + " ");
 	}
 }
